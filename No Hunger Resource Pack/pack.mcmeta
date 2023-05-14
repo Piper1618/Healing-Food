@@ -1,6 +1,6 @@
 ﻿{
   "pack": {
-    "pack_format": 9,
-    "description": "Remove the hunger display"
+    "pack_format": 13,
+    "description": "Remove the hunger bar"
   }
 }
