@@ -1,0 +1,3 @@
+function healingfood:food/01_manage_hunger
+function healingfood:food/02_detect_eating
+function healingfood:food/03_handle_healing
